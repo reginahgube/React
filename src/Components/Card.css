@@ -1,0 +1,35 @@
+
+.card-img-top
+{
+    width: 150px
+    
+   
+}
+.grid-container
+{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 10px;
+    padding: 10px;
+    background-color: whitesmoke;
+  
+}
+.cardBox{
+    height: 5vh;
+    width: 5px;
+}
+.price{
+    position: absolute;
+    margin-top: -2rem;
+    margin-left: .3rem;
+    width: 9rem;
+    padding-right: 1rem;
+    border-radius: 8rem;
+}
+
+img
+ {
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+ }
